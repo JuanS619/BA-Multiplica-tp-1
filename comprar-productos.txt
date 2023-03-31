@@ -1,0 +1,6 @@
+Leche;
+Arroz;
+Vinagre;
+Fídeos;
+Aceíte;
+Yerba;
